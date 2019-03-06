@@ -1,4 +1,4 @@
-# Esercizi Laboratorio e Homework del Laboratorio di Analisi dei Sistemi
+# Esercizi Lezione e Homework del Laboratorio di Analisi dei Sistemi
 
 - **info.txt** : appunti presi a lezione
 - **00n-*** : esercizi fatti in laboratorio
